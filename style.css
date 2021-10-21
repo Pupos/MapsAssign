@@ -1,0 +1,129 @@
+#fof {
+  background-color:green;
+  height:20px;
+  width:50px;
+  color:white;
+}
+#faf {
+  background-color:green;
+  height:20px;
+  width:50px;
+  color:white;
+}
+#fuf {
+  background-color:green;
+  height:20px;
+  width:50px;
+  color:white;
+}
+
+
+
+body{
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+h1{
+  font-size:italic;
+  color:black;
+}
+#best:hover{
+  background-color:green;
+}
+#map{
+  height:700px;
+  width:100%;
+  border:thin solid black;
+}
+.custom-map-control-button{
+  appearance: button;
+  background-color:#fff;
+  border:0;
+  border-rediius:2px;
+  box-shadow: 0 1px 4px -1px rgba(0, 0, 0, 0.3);
+  cursor:pointer;
+  margin:10px;
+  padding:0 0.5em;
+  height:40px;
+  font: 400 18px Roboto, Arial, sans-serif;
+  overflow: hidden;
+  
+}
+.custom-map-control-button:hover{
+  background:#ebebeb;
+}
+#thousand{
+  font-size:15px;
+  border-style:solid;
+  border-width:6px;
+  border-color:black;
+  border-radius:15px;
+  height:30px;
+  text-align:center;
+  background-color:#AAAAFF;
+  width:100px;
+    color:white;
+}
+#thousand:hover{
+  background-color:green;
+}
+
+#five{
+  font-size:15px;
+  border-style:solid;
+  border-width:6px;
+  border-color:black;
+  border-radius:15px;
+  height:30px;
+  text-align:center;
+  background-color:#AAAAFF;
+  width:100px;
+    color:white;
+
+ 
+  position:relative;
+  left:240px;
+  top:-84px;
+}
+#five:hover{
+  background-color:green;
+}
+
+#three{
+  font-size:15px;
+  border-style:solid;
+  border-width:6px;
+  border-color:black;
+  border-radius:15px;
+  height:30px;
+  text-align:center;
+  background-color:#AAAAFF;
+  width:100px;
+    color:white;
+  position:relative;
+  left:120px;
+  top:-42px;
+
+}
+#three:hover{
+  background-color:green;
+}
+
+#best{
+  font-size:15px;
+  font-size:30px;
+  border-style:solid;
+  border-width:12px;
+  border-color:#AAAAFF;
+    border-radius:15px;
+height:50px;
+  width:200px;
+    text-align:center;
+  color:white;
+
+  background-color:#BBBBFF;
+  position:relative;
+  top:-80px;
+  
+ 
+}
