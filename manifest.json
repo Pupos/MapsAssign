@@ -1,0 +1,27 @@
+{
+    "name": "Get out!",
+    "short_name": "MAPS!",
+    "theme_color": "grey",
+    "background_color": "white",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/index.html",
+    "description": "My maps project",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+          "purpose":"any maskable"
+        },
+    {"src":"/icon-192x192.png",
+      "sizes":"192x192" },
+        
+      
+  {"src":"/icon-256x256.png",
+  "sizes":"256x256"
+                
+},
+  {"src":"/icon-384x384.png",
+  "sizes":"384x384"}]
+}
